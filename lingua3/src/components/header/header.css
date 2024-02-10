@@ -1,0 +1,18 @@
+.lingua3__header {
+    padding: 30px;
+}
+
+.lingua3__header-description {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+
+    padding-bottom: 50px;
+}
+
+.lingua3__header-languages {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    word-spacing: 24px;
+}
