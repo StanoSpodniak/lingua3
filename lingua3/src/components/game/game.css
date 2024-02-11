@@ -1,0 +1,42 @@
+.start-game-button {
+    width: 250px;
+    height: 75px;
+    border: none;
+    font-size: 40px;
+    border-radius: 6px;
+    background-color: hsl(120, 100%, 50%);
+    color: white;
+    cursor: pointer;
+
+    margin-top: 50px;
+}
+
+.start-game-button:hover {
+    background-color: hsl(120, 100%, 40%);
+}
+
+.game-container {
+    display: flex;
+    justify-content: center;
+}
+
+.words-container {
+    display: flex;
+    flex-direction: column;
+
+    padding: 26px;
+}
+
+.word-button {
+    width: 250px;
+    height: 75px;
+    font-size: 26px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 6px;
+
+    margin: 26px;
+}
+
+.word-button:hover {
+    background-color: hsl(0, 0%, 95%);
+}
