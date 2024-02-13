@@ -1,4 +1,4 @@
-import { Navbar, Header, Game } from './components';
+import { Navbar, Header, Game } from './containers';
 import './App.css'
 
 function App() {
